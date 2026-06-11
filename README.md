@@ -4,12 +4,6 @@ A simple and interactive **Machine Learning web app** that predicts the risk of 
 
 ---
 
-## 🚀 Live Demo
-If deployed on Streamlit Cloud:
-https://your-app-link.streamlit.app
-
----
-
 ## 📌 Project Overview
 This project predicts whether a person is at **low risk or high risk of diabetes** using 8 medical features. The model is trained on healthcare data and deployed as a web app using Streamlit.
 
@@ -70,6 +64,4 @@ streamlit run app.py
 - Add probability score (e.g., 78% risk instead of just High/Low classification)
 - Improve model accuracy using better feature engineering and tuning
 - Add charts and data visualization for insights (BMI vs Age, Glucose trends, etc.)
-
-
 - Add user authentication for personalized health history tracking
