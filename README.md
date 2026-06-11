@@ -37,8 +37,7 @@ The model takes the following inputs:
 - TensorFlow / Keras 🤖  
 - NumPy  
 - Pandas  
-- Scikit-learn  
-- Pickle  
+- Scikit-learn   
 
 ---
 
